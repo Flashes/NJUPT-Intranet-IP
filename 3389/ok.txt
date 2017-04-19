@@ -1,0 +1,7 @@
+10.10.22.5	administrator/123456
+10.10.22.89	administrator/123456
+10.10.23.191	admin/123456
+10.10.43.241	administrator/1
+10.10.43.242	administrator/1
+10.22.247.7	administrator/password
+10.128.1.179	administrator/123456
